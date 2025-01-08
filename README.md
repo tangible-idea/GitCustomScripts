@@ -22,5 +22,8 @@ This script extracts the files modified in a specific Git branch (compared to th
 3. Add a `Custom Command` in Fork Settings.
 <img width="952" alt="스크린샷 2024-11-28 오후 5 36 13" src="https://github.com/user-attachments/assets/00ef9831-fd34-4ece-86fa-6ef66f576647">
 
+
+![Screenshot 2025-01-08 at 4 22 20 pm](https://github.com/user-attachments/assets/b40de309-70ee-4415-bc73-d9b86dda84ac)
+
 4. Extract files by calling custom command that you made.
 <img width="752" alt="스크린샷 2024-11-28 오후 5 38 21" src="https://github.com/user-attachments/assets/b05dfd6c-4a48-42f4-93b3-bd5640c8afc0">
